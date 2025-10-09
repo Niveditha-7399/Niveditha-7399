@@ -1,4 +1,4 @@
-<h1>Helloooooo, I'm Nivi </h1>
+<h1>Helloooooo, Nivi here </h1>
 <p>An artist that loves astrophysics and coding ( ◉o◉)⊃━☆. ݁₊ ⊹ . ݁˖ . ݁ (also a part-time wizard)</p> 
 
 
@@ -24,7 +24,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
 <a target="_blank" href="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="display: inline-block;"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42" /></a>
 
-<h2>Interests</h2>
+<h2>👀 Interests</h2>
 <p>Academic: Research in Spectroscopy *ੈ✩‧₊˚  .⋆✴︎˚｡ ₊˚✧</p>
-<p>Hobbies: Realism sketching 🎨🖌️, Reading and Writing Fiction ࿔*:･📖˙ᵕ˙ </p>
+<p>Hobbies: Realism Sketching 🎨🖌️, Reading and Writing Fiction ࿔*:･📖˙ᵕ˙ </p>
 <p>Non-academic Obsession: Behavioral Psychology🧠 </p>
