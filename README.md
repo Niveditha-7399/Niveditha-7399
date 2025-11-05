@@ -1,7 +1,6 @@
 <h1>Helloooooo, Nivi here </h1>
 <p>An artist that loves astrophysics and coding ( ◉o◉)⊃━☆. ݁₊ ⊹ . ݁˖ . ݁ (also a part-time wizard)</p> 
 
-
 <img width="2000" height="600" alt="nivi's-banner" src="https://github.com/user-attachments/assets/dd41308d-5ada-42c9-9084-3a3ef5be61b4" />
 
 
@@ -23,6 +22,10 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
 <a target="_blank" href="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="display: inline-block;"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42" /></a>
+
+\
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niveditha-7399&stats_format=bytes&bg_color=1A1B27)
+![Nivi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niveditha-7399&show_icons=true&theme=tokyonight)
 
 <h2>👀 Interests</h2>
 <p>Academic: Research in Spectroscopy *ੈ✩‧₊˚  .⋆✴︎˚｡ ₊˚✧</p>
