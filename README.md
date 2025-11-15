@@ -22,8 +22,8 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
 <a target="_blank" href="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="display: inline-block;"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/phoebe-project/phoebe2/b9aad8096d1f402c0eb3ac39d48f0c8a7d6a15e6/images/logo_blue.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/phoebe-project/phoebe2/b9aad8096d1f402c0eb3ac39d48f0c8a7d6a15e6/images/logo_blue.svg" alt="phoebe" width="42" height="42"/></a>
 
-\
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niveditha-7399&stats_format=bytes&bg_color=1A1B27)
 ![Nivi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niveditha-7399&show_icons=true&theme=tokyonight)
 
