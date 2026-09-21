@@ -24,8 +24,8 @@
 <a target="_blank" href="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="display: inline-block;"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/phoebe-project/phoebe2/b9aad8096d1f402c0eb3ac39d48f0c8a7d6a15e6/images/logo_blue.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/phoebe-project/phoebe2/b9aad8096d1f402c0eb3ac39d48f0c8a7d6a15e6/images/logo_blue.svg" alt="phoebe" width="42" height="42"/></a>
 
-![Top Languages](https://ghstats.dev/api/langs?username=Niveditha-7399&theme=sunset&layout=donut)
-![Nivi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niveditha-7399&show_icons=true&theme=tokyonight)
+![Top Languages](https://ghstats.dev/api/langs?username=Niveditha-7399&theme=nightowl&layout=donut_vertical) &nbsp;&nbsp;
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Niveditha-7399&theme=nightowl&border_radius=0&hide=prs%2Cstreak%2Cweek%2Ctrend%2Cavg%2Cactive_day%2Cgrade)
 
 <h2>👀 Interests</h2>
 <p>Academic: Research in Spectroscopy *ੈ✩‧₊˚  .⋆✴︎˚｡ ₊˚✧</p>
