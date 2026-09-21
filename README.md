@@ -4,7 +4,7 @@
 <img width="2000" height="600" alt="nivi's-banner" src="https://github.com/user-attachments/assets/dd41308d-5ada-42c9-9084-3a3ef5be61b4" />
 
 
-<h2>🚀 Languages and Tools I Use</h2>
+<h2>Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
@@ -17,7 +17,7 @@
 
 
 
-<h2>🚀 Languages and Tools that I'm currently learning</h2>
+<h2>Languages and Tools that I'm currently learning</h2>
 <p>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
@@ -27,7 +27,7 @@
 ![Top Languages](https://ghstats.dev/api/langs?username=Niveditha-7399&theme=nightowl&layout=donut_vertical) &nbsp;&nbsp;
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=Niveditha-7399&theme=nightowl&border_radius=0&hide=prs%2Cstreak%2Cweek%2Ctrend%2Cavg%2Cactive_day%2Cgrade)
 
-<h2>👀 Interests</h2>
-<p>Academic: Research in Spectroscopy *ੈ✩‧₊˚  .⋆✴︎˚｡ ₊˚✧</p>
-<p>Hobbies: Realism Sketching 🎨🖌️, Reading and Writing Fiction ࿔*:･📖˙ᵕ˙ </p>
-<p>Non-academic Obsession: Behavioral Psychology🧠 </p>
+<h2>Interests</h2>
+<p>Academic: Stellar pulsations, Galactic archaeology, Spectroscopy, Educational cognitive science *ੈ✩‧₊˚  .⋆✴︎˚｡ ₊˚✧</p>
+<p>Hobbies: Realism Sketching, Reading and Writing Fiction ˙ᵕ˙ </p>
+<p>Non-academic obsession: Behavioral Psychology </p>
